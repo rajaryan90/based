@@ -9,3 +9,4 @@ Bot for BTC
 Bot for Polymarket
 Claude help taken
 Few codes generated
+Learning how to implement
