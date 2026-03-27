@@ -10,3 +10,4 @@ Bot for Polymarket
 Claude help taken
 Few codes generated
 Learning how to implement
+Tutorials are proving helpful
