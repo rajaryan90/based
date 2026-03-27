@@ -3,3 +3,4 @@ Personal Learning
 AI project
 Agent scanner
 Learning how to build the bot
+Want it to autotrade
