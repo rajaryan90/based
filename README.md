@@ -8,3 +8,4 @@ Targeted few market
 Bot for BTC
 Bot for Polymarket
 Claude help taken
+Few codes generated
