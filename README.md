@@ -13,3 +13,4 @@ Learning how to implement
 Tutorials are proving helpful
 Sample bot added
 Autotrade feature needed
+Signal analysis feature needed
